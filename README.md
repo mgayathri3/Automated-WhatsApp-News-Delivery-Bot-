@@ -6,19 +6,23 @@ A Python-based bot that delivers real-time news updates directly to your WhatsAp
 
 ## 🚀 Features
 
-- Automatically sends news updates on WhatsApp.
-- Customizable topics and delivery intervals.
-- Web dashboard to monitor and control the bot.
-- Supports multiple languages and countries.
-- Powered by Flask with WhatsApp API integration.
+- ✅ Automatically sends the latest news to your WhatsApp.
+- 🎯 Customize topics, languages, and countries.
+- ⏱️ Adjustable delivery interval (e.g., every 60 minutes).
+- 📊 Web dashboard for control and monitoring.
+- 🌐 Multi-language and multi-region support.
+- 🔒 Easy configuration with `config.py`.
+- 🔧 Built with Flask and integrated with WhatsApp via API.
 
 ---
 
-## 🖼️ Screenshots
+## 🛠️ Tech Stack
 
-### Dashboard View
-![Dashboard](./Screenshot%202025-05-17%20153017.png)
+- **Backend**: Python, Flask
+- **Frontend**: HTML, CSS (Static Dashboard)
+- **WhatsApp Messaging**: Twilio WhatsApp API or similar
+- **News Sources**: News API / Web Scraping via BeautifulSoup
 
-### Activity Logs
-![Activity Logs](./Screenshot%202025-05-17%20153030.png)
+---
+
 
